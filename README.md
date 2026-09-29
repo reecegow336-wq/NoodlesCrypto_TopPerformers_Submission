@@ -1,6 +1,13 @@
 
 # NoodlesCrypto Analytics Platform
 
+## Project Links
+
+- **Public GitHub Repository:** [NoodlesCrypto Top Performers Submission](https://github.com/reecegow336-wq/NoodlesCrypto_TopPerformers_Submission)
+- **Demo Video:** [Watch the NoodlesCrypto Power BI Demo](https://www.loom.com/share/bc83a1c640974d06a5432e84504fc1e8)
+
+---
+
 ## Project Overview
 
 NoodlesCrypto is an end-to-end cryptocurrency and social-engagement analytics solution built using Python, pandas, MySQL, SQLAlchemy, SQL analytical views, DAX, and Power BI.
